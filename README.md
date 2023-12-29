@@ -1,15 +1,14 @@
-<h1 align="center">Hello, I'm Urawit Jearrajinda 💻</h1>
-<h4>I'm Tam as a Backend Developer studying in Computer Science at Kasetsart university, I'm passtionated in software development</h4>
+# Hello, I'm Urawit Jearrajinda 💻
 
-- 📫 How to reach me: **[urawit.j@gmail.com](mailto:urawit.j@gmail.com)**
+## About Me
+I'm Urawit Jearrajinda, also known as Tam, a **Backend Developer** studying **Computer Science** at *Kasetsart University*. I'm passionate about software development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/urawit-jearrajinda-357b432a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urawit jearrajinda" height="30" width="40" />
-</a>
-</p>
+- 📫 **How to reach me:** [urawit.j@gmail.com](mailto:urawit.j@gmail.com)
 
-<h3 align="left">Skills:</h3>
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/urawit-jearrajinda-357b432a2/)
+
+## Skills
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -27,6 +26,6 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
 
+## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=urawit&show_icons=true&locale=en&layout=compact)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=urawit&show_icons=true&locale=en&layout=compact" alt="urawit" /></p>
